@@ -1,0 +1,22 @@
+<!--[if lte IE 9]>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js" integrity="sha512-i/6nAYMMwXZ3dTsq+ngdkSl4MbtVQF0FdCeqP5/1HSXPxyEd43vrxhafg1P4iqKRAnZVHn48GYaFUYRcTB0YrQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<![endif]-->
+
+Pc >=1024 Table>=740 & < 1024px Mobile: <740px
+
+pc
+@media (min-width: 1024px) {}
+
+ipad
+
+@media (min-width: 740px) and (max-width: 1023px){}
+
+mobile
+
+@media (max-width:739px) {}
+
+ipad mobile 
+
+@media (max-width: 1023) {}
